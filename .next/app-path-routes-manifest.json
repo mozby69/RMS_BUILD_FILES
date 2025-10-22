@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/",
+  "/register/page": "/register",
+  "/request/approval/page": "/request/approval",
+  "/request/monitoring/page": "/request/monitoring",
+  "/request/page": "/request",
+  "/request/submit-request/page": "/request/submit-request",
+  "/request/system-configuration/page": "/request/system-configuration"
+}
