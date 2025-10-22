@@ -1,1 +1,3 @@
-"use strict";(()=>{var a={};a.id=220,a.ids=[220],a.modules={8732:a=>{a.exports=require("react/jsx-runtime")},33873:a=>{a.exports=require("path")},40361:a=>{a.exports=require("next/dist/compiled/next-server/pages.runtime.prod.js")},82015:a=>{a.exports=require("react")}};var b=require("../webpack-runtime.js");b.C(a);var c=b.X(0,[548],()=>b(b.s=58548));module.exports=c})();
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdb25e78608fccb54b772a3172e5e56babca8a3506e6fc031c86345d2e778e7f
+size 373

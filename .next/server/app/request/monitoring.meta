@@ -1,7 +1,3 @@
-{
-  "headers": {
-    "x-nextjs-stale-time": "300",
-    "x-nextjs-prerender": "1",
-    "x-next-cache-tags": "_N_T_/layout,_N_T_/request/layout,_N_T_/request/monitoring/layout,_N_T_/request/monitoring/page,_N_T_/request/monitoring"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd8273d170c96a6e2d016c84b7faa37d8110d25ef1aff601809249012e52986a
+size 235

@@ -1,12 +1,3 @@
-{
-  "/_not-found/page": "/_not-found",
-  "/favicon.ico/route": "/favicon.ico",
-  "/login/page": "/login",
-  "/page": "/",
-  "/register/page": "/register",
-  "/request/approval/page": "/request/approval",
-  "/request/monitoring/page": "/request/monitoring",
-  "/request/page": "/request",
-  "/request/submit-request/page": "/request/submit-request",
-  "/request/system-configuration/page": "/request/system-configuration"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e32b7e41a4d73e3db37dffa13d7c9cfa2ae00cb52554fce556f62e0030fda4d7
+size 422
